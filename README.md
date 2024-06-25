@@ -1,5 +1,5 @@
 [![Banner](./assets/haru.png)]()
-[![KoujiSano's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoujiSano)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 
 
 - 🔭 I’m currently working on ... Orleans , Azure
