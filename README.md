@@ -2,13 +2,13 @@
 
 ## 
 
-- 🔭 I’m currently working on ... Orleans , Azure
+- 🔭 I’m currently working on ... Orleans,Azure
 - 🚀 I'm the CEO of Simplise Inc.
 - 🏫 I'm a lecturer at Kyoto College of Design & Technology.
-- 🏢 I developed [usebootstrap](https://usebootstrap.org/)  
-- 🌱 I’m currently learning ".Net on Linux" 
+- 🏢 I developed the library [usebootstrap](https://usebootstrap.org/)  
+- 🌱 I’m currently learning ".NET on Linux" 
 - 👯 I’m looking to collaborate on “Lecturing in IT” 
-- 🤔 I’m looking for help with "💰Money"
-- 💬 Ask me about "Nuxt3 , .Net , Orleans , SQLite , SqlServer"
+- 🤔 I’m looking for help with "💰Funding opportunities"
+- 💬 Ask me about "Nuxt3,.NET,Orleans,SQLite,SQL Server"
 - ⚡ Fun fact: I was a mounted archer.
 
