@@ -10,7 +10,5 @@
 - 👯 I’m looking to collaborate on “Lecturing in IT” 
 - 🤔 I’m looking for help with "💰Money"
 - 💬 Ask me about "Nuxt3 , .Net , Orleans , SQLite , SqlServer"
-- 📫 How to reach me: .
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I was a mounted archer.
 
