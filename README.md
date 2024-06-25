@@ -3,6 +3,7 @@
 ## 
 
 - 🔭 I’m currently working on ... Orleans , Azure
+- 🚀 I'm the CEO of Simplise Inc.
 - 🏫 I'm a lecturer at Kyoto College of Design & Technology.
 - 🏢 I developed [usebootstrap](https://usebootstrap.org/)  
 - 🌱 I’m currently learning ... .Net on Linux 
