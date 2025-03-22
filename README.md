@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Orleans and Azure.
 - 🚀 I'm the CEO of Simplise Inc.
-- 🏫 I'm a lecturer at Kyoto Design & Technology College, teaching Nuxt, SQL, .NET, and IT.
+- 🏫 I'm teaching Nuxt, SQL, .NET, and IT.
 - 🏢 I developed the Nuxt module library [[usebootstrap](https://usebootstrap.org/)  ](https://github.com/simplise/use-bootstrap) .
 - 🌱 I’m currently learning .NET on Linux. 
 - 👯 I’m looking to collaborate on lecturing in IT. 
