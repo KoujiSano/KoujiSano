@@ -10,5 +10,3 @@
 - 👯 I’m looking to collaborate on lecturing in IT. 
 - 🤔 I’m looking for help with 💰funding opportunities.
 - 💬 Ask me about Nuxt3,.NET,Orleans,SQLite,SQL Server.
-- ⚡ Fun fact: I was a mounted archer.
-
